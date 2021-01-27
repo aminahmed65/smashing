@@ -1,0 +1,12 @@
+---
+buzzwords: "data: {\"items\":[{\"label\":\"Enterprise\",\"value\":15},{\"label\":\"Turn-key\",\"value\":17},{\"label\":\"Exit
+  strategy\",\"value\":12},{\"label\":\"Streamlininess\",\"value\":27},{\"label\":\"Pivoting\",\"value\":16},{\"label\":\"Leverage\",\"value\":9},{\"label\":\"Paradigm
+  shift\",\"value\":10},{\"label\":\"Web 2.0\",\"value\":12},{\"label\":\"Synergy\",\"value\":8}],\"id\":\"buzzwords\",\"updatedAt\":1611777337201}\n\n"
+convergence: "data: {\"points\":[{\"x\":127,\"y\":28},{\"x\":128,\"y\":17},{\"x\":129,\"y\":27},{\"x\":130,\"y\":38},{\"x\":131,\"y\":21},{\"x\":132,\"y\":13},{\"x\":133,\"y\":20},{\"x\":134,\"y\":35},{\"x\":135,\"y\":13},{\"x\":136,\"y\":37}],\"id\":\"convergence\",\"updatedAt\":1611777337201}\n\n"
+valuation: "data: {\"current\":12,\"last\":47,\"id\":\"valuation\",\"updatedAt\":1611777337201}\n\n"
+karma: "data: {\"current\":181903,\"last\":122058,\"id\":\"karma\",\"updatedAt\":1611777337201}\n\n"
+synergy: "data: {\"value\":37,\"id\":\"synergy\",\"updatedAt\":1611777337201}\n\n"
+welcome: "data: {\"text\":\"Hey, Look what I can do!\",\"id\":\"welcome\",\"updatedAt\":1611776633272}\n\n"
+response_time: "data: {\"value\":382,\"id\":\"response_time\",\"updatedAt\":1611777081565}\n\n"
+response_time_1: "data: {\"value\":186,\"id\":\"response_time_1\",\"updatedAt\":1611777337201}\n\n"
+response_time_2: "data: {\"value\":266,\"id\":\"response_time_2\",\"updatedAt\":1611777337201}\n\n"
